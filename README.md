@@ -1,11 +1,19 @@
 <div align="center">
 
 <!-- HEADER -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Phung%20The%20Vinh&fontSize=48&fontColor=e0e0e0&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineer%20%7C%20Rust%20%7C%20Security%20%7C%20AI&descSize=18&descAlignY=55&descColor=8892b0" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+systems+where+every+millisecond+matters+%E2%9A%A1;Rust+%F0%9F%A6%80+%7C+Zero-Trust+%F0%9F%94%92+%7C+AI-Native+%F0%9F%A4%96)](https://github.com/Phungthevinh)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&duration=3000\&pause=1000\&color=64FFDA\&center=true\&vCenter=true\&multiline=true\&repeat=true\&width=750\&height=80\&lines=Building+reliable+systems+with+Rust+%E2%9A%A1;Systems+%7C+Security+%7C+AI+%7C+Real-Time+Engineering)](https://github.com/Phungthevinh)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Phungthevinh-181717?style=for-the-badge\&logo=github)](https://github.com/Phungthevinh)
+[![Rust](https://img.shields.io/badge/Rust-Systems%20Programming-000000?style=for-the-badge\&logo=rust\&logoColor=white)](https://www.rust-lang.org/)
+[![Security](https://img.shields.io/badge/Security-Zero%20Trust-16213e?style=for-the-badge\&logo=letsencrypt\&logoColor=white)](#)
+[![AI](https://img.shields.io/badge/AI%2FML-Systems-1a1a2e?style=for-the-badge\&logo=openai\&logoColor=white)](#)
 
 </div>
 
@@ -23,121 +31,305 @@ struct Engineer {
 
 const VINH: Engineer = Engineer {
     name: "Phùng Thế Vinh",
-    role: "System & AI-Native Software Engineer",
+    role: "Systems & AI-Native Software Engineer",
     focus: vec![
         "High-Performance Backend Systems",
-        "Zero-Trust Security Architecture", 
-        "AI-Integrated Infrastructure",
-        "Community Safety Technology",
+        "Real-Time Data Processing",
+        "Zero-Trust Security",
+        "AI/ML Infrastructure",
     ],
-    philosophy: "Code that protects lives must never crash.",
+    philosophy: "Build systems that are reliable, observable, and designed to fail safely.",
 };
 ```
 
-I build **mission-critical systems** in Rust where **performance**, **safety**, and **reliability** aren't features — they're requirements. From API gateways handling millions of requests to emergency rescue platforms where every millisecond counts.
+I am a software engineer focused on **Rust, backend systems, security infrastructure, and AI-integrated applications**.
+
+My projects are centered around problems where architecture matters:
+
+* ⚡ **Performance** — low-latency and concurrent systems
+* 🧩 **Architecture** — modular, event-driven and maintainable services
+* 🔐 **Security** — identity, authentication and Zero-Trust principles
+* 🤖 **AI/ML** — integrating intelligent decision systems into production-oriented software
+* 📊 **Real-Time Systems** — streaming data, state management and event processing
+* 🛡️ **Reliability** — observability, recovery, validation and deterministic behavior
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Domain | Stack |
-|:---|:---|
-| **Languages** | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Backend** | ![Axum](https://img.shields.io/badge/Axum-E6522C?style=for-the-badge&logo=rust&logoColor=white) ![Tokio](https://img.shields.io/badge/Tokio-FF7200?style=for-the-badge&logo=rust&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
-| **Security** | `Zero-Trust Mesh` · `Ed25519` · `AES-256-GCM` · `JWT` · `mTLS` |
-| **AI/ML** | `ONNX Runtime (tract)` · `Semantic Caching` · `NLP` · `MCP` |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
+| Domain            | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                |
+| :---------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**     | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white) |
+| **Backend**       | ![Axum](https://img.shields.io/badge/Axum-Rust-E6522C?style=for-the-badge\&logo=rust\&logoColor=white) ![Tokio](https://img.shields.io/badge/Tokio-Async%20Runtime-FF7200?style=for-the-badge\&logo=rust\&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)                                                                                              |
+| **Concurrency**   | `Tokio` · `DashMap` · `Arc` · `RwLock` · `Async Channels`                                                                                                                                                                                                                                                                                                                                                                   |
+| **Databases**     | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)                                                                      |
+| **Security**      | `Zero-Trust` · `Ed25519` · `AES-256-GCM` · `JWT` · `mTLS`                                                                                                                                                                                                                                                                                                                                                                   |
+| **AI / ML**       | `SmartCore` · `Random Forest` · `ONNX` · `NLP` · `Semantic Search`                                                                                                                                                                                                                                                                                                                                                          |
+| **Messaging**     | `Telegram` · `Teloxide` · `WebSocket` · `Tokio mpsc/broadcast`                                                                                                                                                                                                                                                                                                                                                              |
+| **DevOps**        | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)                                                                                                                                                                                    |
+| **Observability** | `tracing` · `Structured Logging` · `Health Checks` · `Metrics`                                                                                                                                                                                                                                                                                                                                                              |
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🚨 [Beacon — SOS Rescue Ecosystem](https://github.com/Phungthevinh/SOS-Rescue-Ecosystem)
+## 📈 [VN30 Real-Time Analyzer](https://github.com/Phungthevinh/bot_vn30)
 
-<sup>🦀 Rust · 📱 Flutter · 🗄️ PostgreSQL · 📡 Redis Geo</sup>
+<sup>🦀 Rust · 📊 Machine Learning · ⚡ Tokio · 🧠 SmartCore · 📡 WebSocket</sup>
 
-**Mạng lưới cứu hộ khẩn cấp cộng đồng** — biến mọi smartphone thành lá chắn sinh tồn.
+A **real-time market analysis system for the VN30 basket**, designed entirely in Rust.
 
-- 🔴 Nút SOS 1-chạm → thông báo 5 người thân + radar cộng đồng 500m
-- 📡 Redis Geospatial radar < 2ms response
-- 🔐 Blackbox recording với AES-256-GCM E2E encryption
-- 🔋 Background tracking < 2% pin/ngày
-- 📞 Twilio SMS/Voice + FCM push (vượt chế độ im lặng)
+The system processes market data through an event-driven pipeline:
 
-> *"Trong tình huống khẩn cấp, mỗi giây đều là sự sống còn."*
+```text
+Market Data
+     ↓
+Normalization
+     ↓
+State Store
+     ↓
+Technical Indicators
+     ↓
+Feature Engineering
+     ↓
+Machine Learning
+     ↓
+Risk Engine
+     ↓
+Signal State Machine
+     ↓
+Telegram Alerts
+```
+
+### Highlights
+
+* 🦀 **100% Rust production engine**
+* ⚡ Async event-driven architecture with Tokio
+* 🧠 Random Forest inference using SmartCore
+* 📊 RSI, MACD, Bollinger Bands, ATR, Beta and return features
+* 🧮 Real-time feature extraction
+* 🗃️ In-memory state management with DashMap
+* 🛡️ Deterministic risk-gating rules
+* 🔄 Signal lifecycle state machine
+* 📡 Telegram alerts through Teloxide
+* ♻️ WebSocket reconnect with exponential backoff + jitter
+* 🔍 Model/config/version metadata for auditability
+* 🚫 **No automatic order execution**
+
+> Built as a research-oriented real-time analysis platform rather than an autonomous trading system.
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🛡️ [Zero Trust Gateway](https://github.com/Phungthevinh/zero_trust_gateway)
+## 🛡️ [Zero Trust Gateway](https://github.com/Phungthevinh/zero_trust_gateway)
 
-<sup>🦀 Rust · ⚡ Axum · 🧠 AI · 🔒 Zero-Trust</sup>
+<sup>🦀 Rust · ⚡ Axum · 🔒 Zero-Trust · 🧠 AI</sup>
 
-**Cổng kiểm soát bảo mật API Zero-Trust** tích hợp AI Semantic Cache hiệu năng cao.
+A Rust-based API security gateway exploring **Zero-Trust architecture, cryptographic identity and intelligent request processing**.
 
-- 🔐 Zero-Trust architecture: "Never trust, always verify"
-- 🧠 AI Semantic Cache — truy vấn tương tự trả kết quả cached bằng ONNX models
-- ⚡ Sub-millisecond latency trên Axum + Tokio async runtime
-- 🔑 Ed25519 cryptographic identity mesh
-- 📊 Vector similarity search cho intelligent caching
+### Highlights
 
-> ⭐ *Dự án có star — được cộng đồng quan tâm*
+* 🔐 Zero-Trust request validation
+* 🔑 Ed25519-based cryptographic identity
+* ⚡ Axum + Tokio asynchronous architecture
+* 🧠 Semantic caching concepts
+* 📊 Vector similarity search
+* 🛡️ Authentication and security middleware
+* 📈 Low-latency request processing
+* 🧩 Modular gateway architecture
+
+> Researching how security and intelligent infrastructure can coexist without sacrificing system performance.
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### ⚙️ [Rust Gateway](https://github.com/Phungthevinh/rust_gateway)
+## ⚙️ [Rust Gateway](https://github.com/Phungthevinh/rust_gateway)
 
-<sup>🦀 Rust · 🌐 HTTP · 🔄 Proxy</sup>
+<sup>🦀 Rust · 🌐 HTTP · 🔄 Reverse Proxy</sup>
 
-**API Gateway** thuần Rust — nền tảng nghiên cứu kiến trúc gateway hiệu năng cao.
+An earlier exploration into building a **high-performance API gateway in Rust**.
 
-- 🔄 Reverse proxy với load balancing
-- 🛡️ Middleware pipeline cho auth & rate limiting
-- 📈 Xử lý concurrent connections hiệu quả
-- 🧱 Foundation cho zero_trust_gateway
+### Highlights
 
-> *Dự án tiền thân, đặt nền móng cho Zero Trust Gateway.*
+* 🔄 HTTP reverse proxy
+* ⚖️ Load-balancing foundation
+* 🛡️ Authentication middleware
+* 🚦 Rate limiting
+* ⚡ Concurrent request processing
+* 🧱 Modular middleware pipeline
+
+This project became a foundation for exploring more advanced Zero-Trust gateway architecture.
 
 </td>
+
 <td width="50%" valign="top">
 
-### 👥 [WebAPI Personnel](https://github.com/Phungthevinh/webAPI_Personnel)
+## 👥 [WebAPI Personnel](https://github.com/Phungthevinh/webAPI_Personnel)
 
-<sup>💜 C# · 🌐 .NET Core · 🗄️ SQL Server</sup>
+<sup>💜 C# · 🌐 ASP.NET Core · 🗄️ SQL Server</sup>
 
-**API quản lý nhân sự & KOI** — hệ thống enterprise backend với .NET Core.
+Enterprise-oriented backend system for personnel management.
 
-- 📋 RESTful API cho quản lý nhân viên
-- 🔐 Authentication & Authorization
-- 🗄️ Entity Framework Core + SQL Server
-- 📊 CRUD operations với validation
+### Highlights
 
-> *Full-stack enterprise solution với C# .NET ecosystem.*
+* RESTful API architecture
+* Authentication & authorization
+* Entity Framework Core
+* SQL Server integration
+* CRUD operations
+* Input validation
+* Modular backend structure
+
+> An earlier project that established my foundation in enterprise backend development.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+# 🧠 Engineering Interests
+
+```text
+                    SOFTWARE ENGINEERING
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+          ▼                ▼                ▼
+      SYSTEMS          SECURITY            AI/ML
+          │                │                │
+     ┌────┴────┐      ┌────┴────┐      ┌────┴────┐
+     │         │      │         │      │         │
+   Rust     Async   Zero-Trust Crypto  Models  Features
+     │         │      │         │      │         │
+     └────┬────┘      └────┬────┘      └────┬────┘
+          │                │                │
+          └────────────────┼────────────────┘
+                           ▼
+                  REAL-TIME SYSTEMS
+                           │
+                           ▼
+                 Reliable Infrastructure
+```
+
+I'm particularly interested in:
+
+* 🦀 Rust systems programming
+* ⚡ High-concurrency backend architecture
+* 📡 Real-time data pipelines
+* 🔐 Zero-Trust infrastructure
+* 🧠 AI-native software architecture
+* 📊 Machine learning systems
+* ♻️ Fault tolerance & self-healing systems
+* 🔎 Observability and deterministic execution
+* 🧮 Low-latency state management
+
+---
+
+# 🗺️ Engineering Journey
+
+```text
+2024                  2025                  2026                  Future
+ │                     │                     │                       │
+ ▼                     ▼                     ▼                       ▼
+.NET / Web        Backend Systems       Rust Systems          AI + Systems
+ │                     │                     │                       │
+ │                     ▼                     ▼                       │
+ │                API Architecture     Zero-Trust Gateway          │
+ │                                           │                       │
+ ▼                                           ▼                       ▼
+Enterprise ───────────────────────────► Security ───────────► Intelligent
+ Backend                                  Infrastructure        Systems
+                                                                     │
+                                                                     ▼
+                                                            Production-grade
+                                                              AI Systems
+```
+
+---
+
+# 🔬 Current Focus
+
+### 01 — Rust Systems Engineering
+
+Building deeper expertise in:
+
+```text
+Tokio
+ ├── Async Runtime
+ ├── Channels
+ ├── Task Scheduling
+ └── Concurrent Services
+
+DashMap
+ ├── Concurrent State
+ ├── Lock Contention
+ └── High-frequency Reads/Writes
+
+Rust
+ ├── Ownership
+ ├── Lifetimes
+ ├── Concurrency
+ └── Zero-Cost Abstractions
+```
+
+### 02 — Real-Time Market Systems
+
+The `bot_vn30` project is currently an important research direction around:
+
+```text
+Market Data
+    ↓
+Streaming State
+    ↓
+Feature Engineering
+    ↓
+Machine Learning
+    ↓
+Risk Management
+    ↓
+Signal Generation
+    ↓
+Observability
+```
+
+The focus is on **engineering the system correctly**: data integrity, deterministic behavior, concurrency, model lifecycle, failure handling and auditability.
+
+### 03 — Security Infrastructure
+
+Exploring how Zero-Trust principles can be implemented at the infrastructure level through:
+
+* cryptographic identities
+* request authentication
+* service-to-service trust
+* policy enforcement
+* secure API gateways
+* observability and audit trails
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Phungthevinh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9&ring_color=64ffda" height="180"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phungthevinh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&langs_count=6" height="180"/>
 
 <br/>
@@ -148,32 +340,48 @@ I build **mission-critical systems** in Rust where **performance**, **safety**, 
 
 ---
 
-## 🗺️ What I'm Building
+# 🧩 Development Philosophy
 
+> **Complex systems should be made understandable.**
+
+I value:
+
+```text
+Correctness
+    +
+Performance
+    +
+Security
+    +
+Observability
+    +
+Maintainability
+        ↓
+Reliable Software
 ```
-  2025                      2026                       →  Future
-    │                         │                            │
-    ▼                         ▼                            ▼
- ┌──────────┐          ┌───────────┐              ┌──────────────┐
- │ .NET API │─────────►│Zero Trust │─────────────►│   BEACON     │
- │ Systems  │          │ Gateway   │              │  SOS Rescue  │
- └──────────┘          │ + AI Cache│              │  Ecosystem   │
-                       └───────────┘              └──────────────┘
-  Enterprise             Security &                Community
-  Backend                AI Infrastructure         Safety Platform
-```
+
+I prefer systems that are:
+
+* **Explicit** rather than magical
+* **Observable** rather than opaque
+* **Deterministic** where possible
+* **Modular** rather than tightly coupled
+* **Recoverable** rather than assuming failures won't happen
+* **Secure by design** rather than secured as an afterthought
 
 ---
 
+# 🤝 Let's Connect
+
+I'm interested in collaborating on:
+
+**Rust systems programming · Backend infrastructure · Security · Real-time systems · AI/ML infrastructure**
+
 <div align="center">
 
-### 💬 Let's Connect
+[![GitHub](https://img.shields.io/badge/GitHub-Phungthevinh-181717?style=for-the-badge\&logo=github)](https://github.com/Phungthevinh)
 
-*I'm open to collaboration on **Rust systems programming**, **security infrastructure**, and **community safety tech**.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Phungthevinh-181717?style=for-the-badge&logo=github)](https://github.com/Phungthevinh)
-
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=120&section=footer" width="100%"/>
 
