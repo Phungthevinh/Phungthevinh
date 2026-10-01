@@ -158,52 +158,6 @@ A Rust-based API security gateway exploring **Zero-Trust architecture, cryptogra
 
 <td width="50%" valign="top">
 
-## ⚙️ [Rust Gateway](https://github.com/Phungthevinh/rust_gateway)
-
-<sup>🦀 Rust · 🌐 HTTP · 🔄 Reverse Proxy</sup>
-
-An earlier exploration into building a **high-performance API gateway in Rust**.
-
-### Highlights
-
-* 🔄 HTTP reverse proxy
-* ⚖️ Load-balancing foundation
-* 🛡️ Authentication middleware
-* 🚦 Rate limiting
-* ⚡ Concurrent request processing
-* 🧱 Modular middleware pipeline
-
-This project became a foundation for exploring more advanced Zero-Trust gateway architecture.
-
-</td>
-
-<td width="50%" valign="top">
-
-## 👥 [WebAPI Personnel](https://github.com/Phungthevinh/webAPI_Personnel)
-
-<sup>💜 C# · 🌐 ASP.NET Core · 🗄️ SQL Server</sup>
-
-Enterprise-oriented backend system for personnel management.
-
-### Highlights
-
-* RESTful API architecture
-* Authentication & authorization
-* Entity Framework Core
-* SQL Server integration
-* CRUD operations
-* Input validation
-* Modular backend structure
-
-> An earlier project that established my foundation in enterprise backend development.
-
-</td>
-
-</tr>
-</table>
-
----
-
 # 🧠 Engineering Interests
 
 ```text
